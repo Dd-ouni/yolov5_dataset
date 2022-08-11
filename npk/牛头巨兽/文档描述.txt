@@ -1,0 +1,8 @@
+sprite_monster_ancient_infinited_vilmark_taucaptain.NPK  红色牛头
+sprite_monster_event_2015_toulevel_chn_tau_kingdom.NPK  装甲牛头 奶牛
+sprite_monster_event_chn_tau_kingdom.NPK  装甲牛头 奶牛
+sprite_monster_event_lost_land_distraction_forest_tauassaulter.NPK  绿色牛头
+sprite_monster_gcontents_171116_dayofdungeon_tau_dungeon.NPK  图腾牛头 
+sprite_monster_gcontents_210128_ilrustrea_normal_goldenplain_tau.NPK 黑色图腾牛头小
+sprite_monster_tau.NPK 密林牛头
+
